@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/BackgroundMusic.mp3</SourceFile>
+  <SourceTime>2023-08-29T12:16:21.9967495-04:00</SourceTime>
+  <DestFile>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/bin/Windows/BackgroundMusic.xnb</DestFile>
+  <DestTime>2023-12-10T22:43:26.3461134-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/bin/Windows/BackgroundMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

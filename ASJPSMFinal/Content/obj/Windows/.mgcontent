@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/mineSweeperBg.ico</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/mineSweeperBg.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/Credits.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/help.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/0.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/1.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/2.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/3.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/4.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/5.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/6.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/7.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/8.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/Background Image.jpg</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/BackgroundMusic.mp3</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/BombSound.wav</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/empty.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/flag.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/FlagSound.wav</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/hilightFont.spritefont</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/MenuBackgroundMusic.mp3</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/mine.png</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/regularFont.spritefont</File>
+    <File>C:/Users/alvar/OneDrive/Área de Trabalho/a/fewjolhhidfhjklewj/ASJPSMFinal/ASJPSMFinal/Content/SafeSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
